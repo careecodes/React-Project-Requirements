@@ -1,6 +1,8 @@
 # React-Project-Requirements
 For April 2021 Cohort
+
 **Start date:** 9/21
+
 **Due date (demo day):** 10/05
 
 ## Directions
