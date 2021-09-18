@@ -1,5 +1,7 @@
 # React-Project-Requirements
 For April 2021 Cohort
+**Start date:** 9/21
+**Due date (demo day):** 10/05
 
 ## Directions
 Welcome to Building Your Individual React Project! You'll spend the next 2 weeks developing individual React Projects to help demonstrate your knowledge of React and Redux.
