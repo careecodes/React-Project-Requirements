@@ -6,7 +6,7 @@ For April 2021 Cohort
 **Due date (demo day):** 10/05
 
 ## Directions
-Welcome to Building Your Individual React Project! You'll spend the next 2 weeks developing individual React Projects to help demonstrate your knowledge of React and Redux.
+Welcome to Building Your React Project! You'll spend the next 2 weeks developing React Projects to help demonstrate your knowledge of React and Redux.
 
 Just like other project weeks, you'll have the entire class sessions to work on your projects. Use your class time wisely!
 
